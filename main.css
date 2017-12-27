@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: Chalkboard;
+}
+
+h1,h2{
+    color: #D2691E;
+    text-align: center;
+    padding: 20px;
+    margin: 0%;
+}
+
+h3{
+    color:#D2691E;
+    padding-bottom: 10px;
+    font-family: Chalkboard;
+}
+aside{
+    text-align: center;
+}
+
+section{
+    background-color: #eee;
+}
+
+ul{
+    list-style: none;
+}
+
+p{
+    font-family: Avenir;
+    color: #696969;
+   
+}
+
+footer{
+    font-family: Arial;
+    background-color:#1D2021;
+    color: darkgray; 
+    text-align: center; 
+    padding: 15px
+}
